@@ -1,0 +1,39 @@
+* {
+    margin:0;
+}
+
+.navbar {
+    background-color: crimson;
+    text-align: center;
+    height: 150px;
+    margin:0px;
+    
+}
+
+.body {
+    top:0%;
+}
+
+.teamCard {
+    height: 200px;
+    width: 405px;
+    border: 2px solid black;
+    display: flex;
+    background-color: bisque;
+
+}
+
+.title {
+
+}
+
+.cardBody {
+ margin:0;
+}
+
+.container {
+    display: flex;
+    flex-basis: auto;
+    justify-content: center;
+    margin-top: 125px;
+}
